@@ -1,0 +1,9 @@
+.busca-container {
+  display: flex;
+  width: 50% !important;
+}
+
+.busca-button {
+  margin-left: 10px;
+  white-space: nowrap;
+}
